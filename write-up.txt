@@ -1,0 +1,9 @@
+homework 06
+
+SQL vs. NoSQL databases is a matter of established needs vs. constantly changing needs. SQL servers allow for vertical scaling, meaning that
+when you increase the power of the computer, this directly affects the efficiency of the database. NoSQL however is horizontally scaling,
+meaning that the load of work must be spread across more computers to increase efficiency. This is like breaking up something heavy into
+lighter loads to make it easier. SQL's data structures require predefined structures to run. This means everything in the data structure has
+to match the same protocol. NoSQL however works on an object by object basis and can adapt to many different keys for data. Due to the differences,
+industries with set conventions and well documented, simple data is best suited for SQL while rapidly growing industries are best for NoSQL with features
+like creating documents before defining their structure or changing fields as requested.
